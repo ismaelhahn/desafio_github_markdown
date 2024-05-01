@@ -20,4 +20,4 @@ desafio github markdown - DIO
 
 ## _Italico_
 
-## ~~Tachado~~
+
