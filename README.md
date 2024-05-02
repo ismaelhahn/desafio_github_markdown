@@ -23,3 +23,12 @@ desafio github markdown - DIO
 
 ### 1- Teste de Lista
 ###    1.1- SubLista
+
+# **_Desafio:_**
+
+[X] Criado Conta; <br>
+[X] Criado Repositorio;<br>
+[X] Commit;<br>
+[X] Issues;<br>
+[X] Fork;<br>
+[X] Pull Request;<br>
