@@ -1,5 +1,5 @@
 # desafio_github_markdown
-desafio github markdown - DIO
+desafio github markdown - DIO.
 
 <!-- Testando tamanho -->
 # Testando os Markdown. 1
